@@ -1,5 +1,2 @@
 # college
-college data
-college name anits
-department cse
-new ost lab
+project on student details
